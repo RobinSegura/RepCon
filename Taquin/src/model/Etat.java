@@ -2,6 +2,8 @@ package model;
 
 import java.util.ArrayList;
 
+import problem.Plateau;
+
 public class Etat {
 	Etat etatParent;
 	Plateau p;

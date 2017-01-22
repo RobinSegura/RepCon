@@ -2,6 +2,8 @@ package model;
 
 import java.util.ArrayList;
 
+import problem.Bateau;
+
 public class Etat {
 	Etat etatParent;
 	Bateau p;

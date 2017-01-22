@@ -1,4 +1,4 @@
-package model;
+package problem;
 
 public class Conteneur {
 	TypeCargaison t;

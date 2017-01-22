@@ -1,10 +1,10 @@
-package model;
+package problem;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
-import model.TypeCargaison;
+import problem.TypeCargaison;
 
 public class Bateau {
 

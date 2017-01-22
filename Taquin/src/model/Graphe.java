@@ -6,6 +6,8 @@ import java.util.Queue;
 import java.util.Stack;
 import java.util.TreeMap;
 
+import problem.Plateau;
+
 public class Graphe {
 	TreeMap<Integer, Etat> graphe;
 	Etat init;

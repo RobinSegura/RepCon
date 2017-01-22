@@ -1,4 +1,4 @@
-package model;
+package problem;
 
 enum TypeCargaison{ 
 	MUNITIONS,		// Correspond à 1
